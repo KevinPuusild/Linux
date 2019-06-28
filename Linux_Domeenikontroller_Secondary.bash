@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #Alustan DC2 paigaldust
 clear
